@@ -1,5 +1,5 @@
 {
-  "name": "command-links-from-slack",
+  "name": "bot-slack-links",
   "version": "1.0.0",
   "dependencies": {
     "@slack/client": "^3.16.0",
